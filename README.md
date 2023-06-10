@@ -1,7 +1,7 @@
 # Real-time-driver-drowsiness-detection
 
 ### Code:
-```
+```python
 from scipy.spatial import distance
 from imutils import face_utils
 from pygame import mixer
